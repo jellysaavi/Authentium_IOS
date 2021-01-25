@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Saavi/Classes/Modules/AddNewEnquiryPopupModule/View/AddNewEnquiryPopup.swift"
+            timestampString = "538029793.16054"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "submitQueryAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Saavi/Classes/Modules/AddNewEnquiryPopupModule/View/AddNewEnquiryPopup.swift"
+            timestampString = "538029793.177507"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "submitQueryAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Saavi/Classes/Modules/OrderDescription/View/OrderDescriptionView.swift"
+            timestampString = "543501764.80284"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "497"
+            endingLineNumber = "497"
+            landmarkName = "callAPIForGettingDescriptionOfProduct()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Saavi.OrderDescriptionView.callAPIForGettingDescriptionOfProduct() -&gt; ()"
+                  moduleName = "Saavi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sukhpreet/Downloads/Saavi%205.0/saavi5_ios/Saavi/Classes/Modules/OrderDescription/View/OrderDescriptionView.swift"
+                  timestampString = "543935211.070073"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "497"
+                  endingLineNumber = "497"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.String in Saavi.OrderDescriptionView.callAPIForGettingDescriptionOfProduct() -&gt; ()"
+                  moduleName = "Saavi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sukhpreet/Downloads/Saavi%205.0/saavi5_ios/Saavi/Classes/Modules/OrderDescription/View/OrderDescriptionView.swift"
+                  timestampString = "543935211.071822"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "497"
+                  endingLineNumber = "497"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

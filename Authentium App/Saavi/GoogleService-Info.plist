@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>757098080112-a6mf9mh91r1lsh054n5bd7tu0f1begov.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.757098080112-a6mf9mh91r1lsh054n5bd7tu0f1begov</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuprdLcQ01EpeIhBw2bAoVV2bG9KLuXJc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>757098080112</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.saavi.sunshineCoast</string>
+	<key>PROJECT_ID</key>
+	<string>sunshine-coast-102ff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sunshine-coast-102ff.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:757098080112:ios:0f633336721a84e68ad1b5</string>
+	<key>DATABASE_URL</key>
+	<string>https://sunshine-coast-102ff.firebaseio.com</string>
+</dict>
+</plist>
